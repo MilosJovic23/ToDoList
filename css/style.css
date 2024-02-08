@@ -1,0 +1,50 @@
+.h-100vh {
+	height: 100vh;
+}
+.h-10 {
+	height: 10vh;
+}
+.h-5 {
+	height: 5vh;
+}
+.h-15 {
+	height: 15vh;
+}
+.taskContainer button {
+	width: auto;
+	height: 2rem;
+	border: none;
+	border-radius: 1rem;
+}
+
+/* .taskContainer div {
+	min-height: 10;
+} */
+.taskContainer {
+	overflow: auto;
+}
+.min-w {
+	min-width: 10%;
+	max-width: 20%;
+	min-height: 10%;
+	max-height: 40%;
+	color: #5b5c8b;
+	overflow: auto;
+}
+.inputForm input,
+textarea {
+	text-align: center;
+	border: none;
+	text-decoration: none;
+	border-radius: 1rem;
+}
+.inputForm button {
+	width: auto;
+	height: 2rem;
+	border: none;
+	border-radius: 1rem;
+	background-color: #ffffff;
+}
+body {
+	background-image: linear-gradient(20deg, rgb(67, 170, 255), rgb(42, 73, 250));
+}
